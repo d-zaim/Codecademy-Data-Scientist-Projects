@@ -1,2 +1,2 @@
-# Codecademy-Projects
+# Codecademy Data Scientist Projects
  
